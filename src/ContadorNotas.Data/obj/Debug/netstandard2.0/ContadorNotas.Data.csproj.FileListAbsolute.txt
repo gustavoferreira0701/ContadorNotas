@@ -1,0 +1,9 @@
+F:\dev\ContadorNotas\src\ContadorNotas.Data\bin\Debug\netstandard2.0\ContadorNotas.Data.deps.json
+F:\dev\ContadorNotas\src\ContadorNotas.Data\bin\Debug\netstandard2.0\ContadorNotas.Data.dll
+F:\dev\ContadorNotas\src\ContadorNotas.Data\bin\Debug\netstandard2.0\ContadorNotas.Data.pdb
+F:\dev\ContadorNotas\src\ContadorNotas.Data\obj\Debug\netstandard2.0\ContadorNotas.Data.csprojResolveAssemblyReference.cache
+F:\dev\ContadorNotas\src\ContadorNotas.Data\obj\Debug\netstandard2.0\ContadorNotas.Data.csproj.CoreCompileInputs.cache
+F:\dev\ContadorNotas\src\ContadorNotas.Data\obj\Debug\netstandard2.0\ContadorNotas.Data.AssemblyInfoInputs.cache
+F:\dev\ContadorNotas\src\ContadorNotas.Data\obj\Debug\netstandard2.0\ContadorNotas.Data.AssemblyInfo.cs
+F:\dev\ContadorNotas\src\ContadorNotas.Data\obj\Debug\netstandard2.0\ContadorNotas.Data.dll
+F:\dev\ContadorNotas\src\ContadorNotas.Data\obj\Debug\netstandard2.0\ContadorNotas.Data.pdb

@@ -1,0 +1,16 @@
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\obj\Debug\netcoreapp2.0\ContadorNotas.Tests.csprojResolveAssemblyReference.cache
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\obj\Debug\netcoreapp2.0\ContadorNotas.Tests.csproj.CoreCompileInputs.cache
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\obj\Debug\netcoreapp2.0\ContadorNotas.Tests.AssemblyInfoInputs.cache
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\obj\Debug\netcoreapp2.0\ContadorNotas.Tests.AssemblyInfo.cs
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Tests.deps.json
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Tests.runtimeconfig.json
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Tests.runtimeconfig.dev.json
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Tests.dll
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Tests.pdb
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Data.dll
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\bin\Debug\netcoreapp2.0\ContadorNotas.Data.pdb
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\obj\Debug\netcoreapp2.0\ContadorNotas.Tests.dll
+F:\dev\ContadorNotas\tests\ContadorNotas.Tests\obj\Debug\netcoreapp2.0\ContadorNotas.Tests.pdb
