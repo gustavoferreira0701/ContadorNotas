@@ -19,3 +19,10 @@ F:\dev\ContadorNotas\src\ContadorNotas.Api\obj\Debug\netcoreapp2.0\ContadorNotas
 F:\dev\ContadorNotas\src\ContadorNotas.Api\obj\Debug\netcoreapp2.0\ContadorNotas.Api.AssemblyInfo.cs
 F:\dev\ContadorNotas\src\ContadorNotas.Api\obj\Debug\netcoreapp2.0\ContadorNotas.Api.dll
 F:\dev\ContadorNotas\src\ContadorNotas.Api\obj\Debug\netcoreapp2.0\ContadorNotas.Api.pdb
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Api.deps.json
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Api.runtimeconfig.json
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Api.runtimeconfig.dev.json
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Api.dll
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Api.pdb
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Data.dll
+F:\dev\ContadorNotas\src\ContadorNotas.Api\bin\Debug\netcoreapp2.0\ContadorNotas.Data.pdb

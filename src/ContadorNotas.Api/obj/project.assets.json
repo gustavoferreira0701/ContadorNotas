@@ -5029,6 +5029,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "ContadorNotas.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ContadorNotas.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContadorNotas.Data.dll": {}
+        }
       }
     }
   },
@@ -13105,11 +13115,16 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "ContadorNotas.Data/1.0.0": {
+      "type": "project",
+      "path": "../ContadorNotas.Data/ContadorNotas.Data.csproj",
+      "msbuildProject": "../ContadorNotas.Data/ContadorNotas.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "F:\\dev\\ContadorNotas\\src\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj",
+      "ContadorNotas.Data >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
@@ -13148,8 +13163,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\dev\\ContadorNotas\\src\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj": {
-              "projectPath": "F:\\dev\\ContadorNotas\\src\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj"
+            "F:\\dev\\ContadorNotas\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj": {
+              "projectPath": "F:\\dev\\ContadorNotas\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj"
             }
           }
         }
@@ -13184,16 +13199,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'F:\\dev\\ContadorNotas\\src\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "F:\\dev\\ContadorNotas\\src\\src\\ContadorNotas.Data\\ContadorNotas.Data.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }
